@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..,..\\..\\..,..\\..\\..,..\\..,..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32c3:JTAGAdapter=default,CDCOnBoot=default,PartitionScheme=no_ota,CPUFreq=160,FlashMode=dio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "C:\\Users\\songb\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\songb\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\esp32"
+}
